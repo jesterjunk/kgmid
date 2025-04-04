@@ -1,0 +1,79 @@
+- title: Fibonacci
+  google_kg_url: https://g.co/kgs/QNCsRt4
+  google_search_url: https://www.google.com/search?kgmid=/m/05ykb2r&q=Fibonacci
+  wikidata_url: https://www.wikidata.org/wiki/Q8763
+  wikipedia_url: https://en.wikipedia.org/wiki/Fibonacci
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=17949
+  tags: ["sequence",  "numbers",  "pattern",  "golden ratio",  "spiral",  "recursion",  "mathematics"]
+
+- title: Pi
+  google_kg_url: https://g.co/kgs/CW38c1a
+  google_search_url: https://www.google.com/search?kgmid=/m/05wjw&q=Pi
+  wikidata_url: https://www.wikidata.org/wiki/Q167
+  wikipedia_url: https://en.wikipedia.org/wiki/Pi
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=23601
+  tags: ["π",  "irrational",  "circle",  "ratio",  "circumference",  "diameter",  "3.14159",  "math constant"]
+
+- title: Pi Day
+  google_kg_url: https://g.co/kgs/9FipiAJ
+  google_search_url: https://www.google.com/search?kgmid=/m/0681n&q=Pi+Day
+  wikidata_url: https://www.wikidata.org/wiki/Q179736
+  wikipedia_url: https://en.wikipedia.org/wiki/Pi_Day
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=25013
+  tags: ["March 14",  "celebration",  "mathematics",  "π",  "3.14",  "Albert Einstein",  "math holiday"]
+
+- title: Pythagorean theorem
+  google_kg_url: https://g.co/kgs/NkMq2KQ
+  google_search_url: https://www.google.com/search?kgmid=/m/05r2j&q=Pythagorean+theorem
+  wikidata_url: https://www.wikidata.org/wiki/Q11518
+  wikipedia_url: https://en.wikipedia.org/wiki/Pythagorean_theorem
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=26513034
+  tags: ["a² + b² = c²",  "right triangle",  "geometry",  "hypotenuse",  "formula",  "Euclid",  "theorem"]
+
+- title: Mole
+  google_kg_url: https://g.co/kgs/B7texw5
+  google_search_url: https://www.google.com/search?kgmid=/m/09b4v&q=Mole
+  wikidata_url: https://www.wikidata.org/wiki/Q41509
+  wikipedia_url: https://en.wikipedia.org/wiki/Mole_(unit)
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=37400
+  tags: ["chemistry",  "Avogadro",  "6.022×10²³",  "unit",  "substance",  "quantity",  "atoms",  "molecules"]
+
+- title: Mole Day
+  google_kg_url: https://g.co/kgs/ed8NYYk
+  google_search_url: https://www.google.com/search?kgmid=/m/0583n&q=Mole+Day
+  wikidata_url: https://www.wikidata.org/wiki/Q268458
+  wikipedia_url: https://en.wikipedia.org/wiki/Mole_Day
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=20906
+  tags: ["October 23",  "celebration",  "chemistry",  "Avogadro’s number",  "science holiday"]
+
+- title: Palindrome
+  google_kg_url: https://g.co/kgs/3Kv8N7x
+  google_search_url: https://www.google.com/search?kgmid=/m/060qt&q=Palindrome
+  wikidata_url: https://www.wikidata.org/wiki/Q12321
+  wikipedia_url: https://en.wikipedia.org/wiki/Palindrome
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=24147
+  tags: ["reverse",  "same forwards and backwards",  "symmetry",  "wordplay",  "numbers",  "sequences"]
+
+- title: Microform
+  google_kg_url: https://g.co/kgs/ngKoKWg
+  google_search_url: https://www.google.com/search?kgmid=/m/0867p9&q=Microform
+  wikidata_url: https://www.wikidata.org/wiki/Q830450
+  wikipedia_url: https://en.wikipedia.org/wiki/Microform
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=2842268
+  tags: ["archival",  "storage",  "miniaturized",  "microfilm",  "microfiche",  "documents",  "records"]
+
+- title: Aperture card
+  google_kg_url: https://g.co/kgs/Viox9DF
+  google_search_url: https://www.google.com/search?kgmid=/m/027275d&q=Aperture+card
+  wikidata_url: https://www.wikidata.org/wiki/Q4779389
+  wikipedia_url: https://en.wikipedia.org/wiki/Aperture_card
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=8403499
+  tags: ["microfilm",  "data storage",  "punch card",  "engineering drawings",  "archive",  "library"]
+
+- title: Microphotograph
+  google_kg_url: https://g.co/kgs/4qPmMvZ
+  google_search_url: https://www.google.com/search?kgmid=/m/0j66byl&q=Microphotograph
+  wikidata_url: https://www.wikidata.org/wiki/Q3274922
+  wikipedia_url: https://en.wikipedia.org/wiki/Microphotograph
+  wikipedia_curid_url: https://en.wikipedia.org/?curid=27326836
+  tags: ["miniature",  "photography",  "microscope",  "image",  "documentation",  "detail",  "science"]
