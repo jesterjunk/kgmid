@@ -8,5 +8,6 @@ format:<br>
 tpt = tilde pipe tilde = `~|~`
 ```tpt
 kgmid(/m=Freebase ID|g/=Google KG ID)~|~query
-m/01kkf7~|~Kilroy+was+here
+Q597180~|~m/01kkf7~|~Kilroy+was+here
+Q2616400~|~m/05lxgk~|~Y+Combinator
 ```
